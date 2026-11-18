@@ -7,6 +7,21 @@ deleted until you press **Clean**.
 Two ways to run it — a real `.exe` (no install, no PowerShell) and a
 single-file PowerShell script. Both do exactly the same thing.
 
+## Screenshots
+
+![ProClean scan — real result on the author's PC](screenshots/proclean-scan-screenshot-1.png)
+
+*Real scan on the author's PC: 32,658 files, 4.00 GB reclaimable.*
+
+![ProClean icon — 256, 48, 32 and 16 px](screenshots/proclean-icon-spec.png)
+
+*ProClean icon spec sheet — 256, 48, 32 and 16 px.*
+
+## Why ProClean?
+
+- Easy to use — no install, double-click and run, one window with ten categories. Great for office PCs and office setups too.
+- Improves Windows system speed by clearing the junk that slows it down, and frees disk space — up to 50 GB depending on your PC. On the author's own PC, one scan found 4.00 GB reclaimable (32,658 files).
+
 ## Download
 
 | File | What it is |
