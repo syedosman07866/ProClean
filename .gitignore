@@ -1,0 +1,6 @@
+# ProClean build outputs and local files - never commit these
+dotnet/bin/
+dotnet/obj/
+dotnet/publish/
+ProClean-Log-*.txt
+*.user
